@@ -1,8 +1,8 @@
-#BS5-Gulp
+# BS5-Gulp
 
 A simple bootstrap 5 implementation with gulp.
 
-##How to use
+## How to use
 
 ```bash
 git clone https://github.com/doyoque/bs5-gulp.git
